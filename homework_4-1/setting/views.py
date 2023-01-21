@@ -10,4 +10,3 @@ def time(request):
 #     return HttpResponse(dt_now)
 def goodbye(request):
     return HttpResponse("goodbye")
-
